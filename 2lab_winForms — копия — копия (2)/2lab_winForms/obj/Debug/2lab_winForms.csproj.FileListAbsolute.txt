@@ -1,0 +1,22 @@
+C:\Users\Zemelya-PC\Desktop\2lab_winForms\2lab_winForms\obj\Debug\2lab_winForms.csproj.AssemblyReference.cache
+C:\Users\Zemelya-PC\Desktop\2lab_winForms\2lab_winForms\obj\Debug\2lab_winForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zemelya-PC\Desktop\2lab_winForms\2lab_winForms\obj\Debug\_2lab_winForms.Properties.Resources.resources
+C:\Users\Zemelya-PC\Desktop\2lab_winForms\2lab_winForms\obj\Debug\2lab_winForms.csproj.GenerateResource.cache
+C:\Users\Zemelya-PC\Desktop\2lab_winForms\2lab_winForms\obj\Debug\2lab_winForms.csproj.CoreCompileInputs.cache
+C:\Users\Zemelya-PC\Desktop\2lab_winForms\2lab_winForms\obj\Debug\MinimizationApp.Form1.resources
+C:\Users\Zemelya-PC\Desktop\2lab_winForms\2lab_winForms\bin\Debug\2lab_winForms.exe.config
+C:\Users\Zemelya-PC\Desktop\2lab_winForms\2lab_winForms\bin\Debug\2lab_winForms.exe
+C:\Users\Zemelya-PC\Desktop\2lab_winForms\2lab_winForms\bin\Debug\2lab_winForms.pdb
+C:\Users\Zemelya-PC\Desktop\2lab_winForms\2lab_winForms\obj\Debug\2lab_winForms.exe
+C:\Users\Zemelya-PC\Desktop\2lab_winForms\2lab_winForms\obj\Debug\2lab_winForms.pdb
+C:\Users\Zemelya-PC\Desktop\2lab_winForms — копия\2lab_winForms\bin\Debug\2lab_winForms.exe.config
+C:\Users\Zemelya-PC\Desktop\2lab_winForms — копия\2lab_winForms\bin\Debug\2lab_winForms.exe
+C:\Users\Zemelya-PC\Desktop\2lab_winForms — копия\2lab_winForms\bin\Debug\2lab_winForms.pdb
+C:\Users\Zemelya-PC\Desktop\2lab_winForms — копия\2lab_winForms\obj\Debug\2lab_winForms.csproj.AssemblyReference.cache
+C:\Users\Zemelya-PC\Desktop\2lab_winForms — копия\2lab_winForms\obj\Debug\2lab_winForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zemelya-PC\Desktop\2lab_winForms — копия\2lab_winForms\obj\Debug\MinimizationApp.Form1.resources
+C:\Users\Zemelya-PC\Desktop\2lab_winForms — копия\2lab_winForms\obj\Debug\_2lab_winForms.Properties.Resources.resources
+C:\Users\Zemelya-PC\Desktop\2lab_winForms — копия\2lab_winForms\obj\Debug\2lab_winForms.csproj.GenerateResource.cache
+C:\Users\Zemelya-PC\Desktop\2lab_winForms — копия\2lab_winForms\obj\Debug\2lab_winForms.csproj.CoreCompileInputs.cache
+C:\Users\Zemelya-PC\Desktop\2lab_winForms — копия\2lab_winForms\obj\Debug\2lab_winForms.exe
+C:\Users\Zemelya-PC\Desktop\2lab_winForms — копия\2lab_winForms\obj\Debug\2lab_winForms.pdb
